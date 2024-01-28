@@ -1,4 +1,4 @@
-## 通过对话分析女朋友的情绪值波动
+##!通过对话分析女朋友的情绪值波动
 
 > Blog : [Antzuhl](http://www.cnblogs.com/LexMoon/)
 
@@ -9,9 +9,9 @@
 
 ###### 欢迎关注公众号，开启和我的交流
 
-![weix](https://www.cnblogs.com/images/cnblogs_com/LexMoon/1391533/o_qrcode_for_gh_f3457f4f73a1_258.jpg)
+ [weix](https://www.cnblogs.com/images/cnblogs_com/LexMoon/1391533/o_qrcode_for_gh_f3457f4f73a1_258.jpg)
 
-![todo](https://github.com/CasterWx/python-girlfriend-mood/blob/master/CS.jpg?raw=true)
+#[todo](https://github.com/CasterWx/python-girlfriend-mood/blob/master/CS.jpg?raw=true)
 
 :kissing_closed_eyes::kissing_closed_eyes:  通过女朋友的一句话分析她的心情 。
 
@@ -26,7 +26,7 @@ Analyze her mood through her girlfriend's words .
 >"Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best Python Chinese word segmentation module.
 
 ### 2、特点
- * 支持三种分词模式：
+ # 支持三种分词模式：
      * 精确模式，试图将句子最精确地切开，适合文本分析；
      * 全模式，把句子中所有的可以成词的词语都扫描出来, 速度非常快，但是不能解决歧义；
      * 搜索引擎模式，在精确模式的基础上，对长词再次切分，提高召回率，适合用于搜索引擎分词。
@@ -308,3 +308,4 @@ if __name__=="__main__":
 
 ### 6、代码地址
     Github : [https://github.com/CasterWx/python-girlfriend-mood](https://github.com/CasterWx/python-girlfriend-mood)
+ 
