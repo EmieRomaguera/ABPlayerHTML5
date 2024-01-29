@@ -1,6 +1,6 @@
-##!通过对话分析女朋友的情绪值波动
+ #!通过对话分析女朋友的情绪值波动
 
-> Blog : [Antzuhl](http://www.cnblogs.com/LexMoon/)
+>!Blog : [Antzuhl](http://www.cnblogs.com/LexMoon/)
 
 > Github : [CasterWx](https://github.com/CasterWx)
 
@@ -308,4 +308,4 @@ if __name__=="__main__":
 
 ### 6、代码地址
     Github : [https://github.com/CasterWx/python-girlfriend-mood](https://github.com/CasterWx/python-girlfriend-mood)
- 
+  
